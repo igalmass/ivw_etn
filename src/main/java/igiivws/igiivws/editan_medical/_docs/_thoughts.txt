@@ -1,0 +1,2 @@
+- in the high heart rate events - 100 is hardcoded. It should be a parameter.
+
